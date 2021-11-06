@@ -1,0 +1,38 @@
+{
+  "name": "cra-template-fa",
+  "version": "1.0.0",
+  "description": "A quick start Create React App template with React Router, GraphQL, TypeScript, Tailwind CSS, Husky and custom ESlint configurations",
+  "main": "template.json",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albrim-devfront/cra-template-fa.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "eslint",
+    "react-router",
+    "react-router-dom",
+    "typescript",
+    "graphql",
+    "prettier",
+    "husky"
+  ],
+  "author": "Albrim Paqarizi <albrimpa@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.14.1 <16.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/albrim-devfront/cra-template-fa/issues"
+  },
+  "homepage": "https://github.com/albrim-devfront/cra-template-fa#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}

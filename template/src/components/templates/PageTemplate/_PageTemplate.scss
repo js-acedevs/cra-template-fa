@@ -1,0 +1,7 @@
+.pageTemplate {
+  @apply bg-black mx-auto h-full;
+
+  p {
+    @apply text-red-500 font-light;
+  }
+}

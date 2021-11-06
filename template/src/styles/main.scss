@@ -1,0 +1,22 @@
+/**
+ * *Sort by A to Z, first vendor files then components files
+ * !You should to import all styles
+ */
+
+// import tailwindcss
+@import './vendor/tailwindcss/index.css';
+
+// import base styles
+@import './base/reset';
+
+// import atoms
+@import './../components/atoms/index';
+
+// import molecules
+@import './../components/molecules/index';
+
+// import organisms
+@import './../components/organisms/index';
+
+// import templates
+@import './../components/templates/index';
